@@ -1,0 +1,4 @@
+# Project exclude paths
+/webmvc-manual/target/
+/webmvc-manual-helloworld/target/
+/webmvc-maven/target/

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-learn.iml" filepath="$PROJECT_DIR$/spring-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webmvc-manual.iml" filepath="$PROJECT_DIR$/webmvc-manual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webmvc-manual-helloworld/webmvc-manual-helloworld.iml" filepath="$PROJECT_DIR$/webmvc-manual-helloworld/webmvc-manual-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webmvc-maven.iml" filepath="$PROJECT_DIR$/webmvc-maven.iml" />
+    </modules>
+  </component>
+</project>
